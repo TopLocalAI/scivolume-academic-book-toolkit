@@ -1,4 +1,4 @@
-[English](README.md) | 简体中文
+[English](README.md) | 简体中文 | [日本語](./README.ja.md)
 
 # SciVolume 学术专著写作与引文核查工具包（scivolume-academic-book-toolkit）
 
